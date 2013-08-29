@@ -1,0 +1,18 @@
+{
+  "name": "zipcar-data-extractor",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "oracletest.js",
+  "dependencies": {
+    "oracle": "~0.3.3",
+    "bigml": "~0.2.0",
+    "lodash": "~1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
